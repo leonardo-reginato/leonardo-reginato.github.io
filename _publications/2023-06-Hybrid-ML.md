@@ -2,7 +2,7 @@
 title: "Hybrid Machine Learning for Modeling the Relative Permeability Changes in Carbonate Reservoirs under Engineered Water Injection"
 collection: publications
 category: manuscripts
-permalink: https://www.mdpi.com/1996-1073/16/13/4849
+permalink: /publication/2023-06-Hybrid-ML
 excerpt: 'This paper introduces a Hybrid Machine Learning (HML) solution combining K-Means and Artificial Neural Networks to predict petrophysical behaviors during Engineered Water Injection (EWI). The study demonstrates the effectiveness of HML in optimizing oil production, achieving a 7.3% increase in output while significantly reducing water injection and production costs by 28% and 40%, respectively. Additionally, the proposed approach enhances modeling accuracy and efficiency for advanced production methods, even under higher injection costs, highlighting its potential for improving profitability in both new and mature oil fields.'
 date: 2023-06-21
 venue: 'Energies'
