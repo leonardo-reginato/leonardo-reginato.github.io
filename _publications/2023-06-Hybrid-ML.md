@@ -3,12 +3,13 @@ title: "Hybrid Machine Learning for Modeling the Relative Permeability Changes i
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-Hybrid-ML
-excerpt: 'This paper introduces a Hybrid Machine Learning (HML) solution combining K-Means and Artificial Neural Networks to predict petrophysical behaviors during Engineered Water Injection (EWI). The study demonstrates the effectiveness of HML in optimizing oil production, achieving a 7.3% increase in output while significantly reducing water injection and production costs by 28% and 40%, respectively. Additionally, the proposed approach enhances modeling accuracy and efficiency for advanced production methods, even under higher injection costs, highlighting its potential for improving profitability in both new and mature oil fields.'
+excerpt: 'The study introduces a Hybrid Machine Learning (HML) model combining K-Means clustering and Artificial Neural Networks to predict petrophysical behaviors during Engineered Water Injection (EWI) in carbonate reservoirs. This approach enhances oil production by 7.3% and reduces water injection and production by 28% and 40%, respectively, outperforming traditional methods.'
 date: 2023-06-21
 venue: 'Energies'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.mdpi.com/1996-1073/16/13/4849'
+link: 'https://www.mdpi.com/1996-1073/16/13/4849'
 citation: #'Reginato, L.F., Gioria, R.D.S. and Sampaio, M.A., 2023. Hybrid Machine Learning for Modeling the Relative Permeability Changes in Carbonate Reservoirs under Engineered Water Injection. Energies, 16(13), p.4849.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+### Abstract
+Advanced production methods utilize complex fluid iteration mechanisms to provide benefits in their implementation. However, modeling these effects with efficiency or accuracy is always a challenge. Machine Learning (ML) applications, which are fundamentally data-driven, can play a crucial role in this context. Therefore, in this study, we applied a Hybrid Machine Learning (HML) solution to predict petrophysical behaviors during Engineered Water Injection (EWI). This hybrid approach utilizes K-Means and Artificial Neural Network algorithms to predict petrophysical behaviors during EWI. In addition, we applied an optimization process to maximize the Net Present Value (NPV) of a case study, and the results demonstrate that the HML approach outperforms conventional methods by increasing oil production (7.3%) while decreasing the amount of water injected and produced (by 28% and 40%, respectively). Even when the injection price is higher, this method remains profitable. Therefore, our study highlights the potential benefits of utilizing HML solutions for predicting petrophysical behaviors during EWI. This approach can significantly improve the accuracy and efficiency of modeling advanced production methods, which may help the profitability of new and mature oil fields.
