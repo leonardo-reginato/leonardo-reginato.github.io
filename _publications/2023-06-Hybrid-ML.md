@@ -8,7 +8,7 @@ date: 2023-06-21
 venue: 'Energies'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.mdpi.com/1996-1073/16/13/4849'
-citation: 'Reginato, L.F., Gioria, R.D.S. and Sampaio, M.A., 2023. Hybrid Machine Learning for Modeling the Relative Permeability Changes in Carbonate Reservoirs under Engineered Water Injection. Energies, 16(13), p.4849.'
+citation: #'Reginato, L.F., Gioria, R.D.S. and Sampaio, M.A., 2023. Hybrid Machine Learning for Modeling the Relative Permeability Changes in Carbonate Reservoirs under Engineered Water Injection. Energies, 16(13), p.4849.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
