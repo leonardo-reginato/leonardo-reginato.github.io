@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "leo_profile_photo_circlular.png"
+  avatar           : "leo_profile_photo_circular.png"
   name             : "Leonardo Reginato"
   pronouns         : "he/him"  
   bio              : "Engineer focused on AI/ML applications"
