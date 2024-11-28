@@ -3,7 +3,7 @@ title: "Hybrid Machine Learning for Modeling the Relative Permeability Changes i
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-Hybrid-ML
-excerpt: ''
+excerpt: 'XXXXX'
 date: 2023-06-21
 venue: 'Energies'
 paperurl: 'https://www.mdpi.com/1996-1073/16/13/4849'
