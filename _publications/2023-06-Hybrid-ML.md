@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Machine Learning for Modeling the Relative Permeability Changes in Carbonate Reservoirs under Engineered Water Injection "
+title: "Hybrid Machine Learning for Modeling the Relative Permeability Changes in Carbonate Reservoirs under Engineered Water Injection"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-Hybrid-ML
