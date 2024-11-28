@@ -1,14 +1,18 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a researcher and engineer specializing in leveraging machine learning to address challenges in energy, environmental science, and data-driven engineering. Currently, I am a Research Technician at the University of Texas at Austin 🤘🏼, where I develop deep learning models for ecological applications (🐠+📷+🤖), exploring interdisciplinary solutions that merge AI and marine science.
+Hi there! I’m Leonardo Reginato — a researcher and engineer who loves harnessing the power of AI to solve complex problems. Currently, I’m a Research Technician at the University of Texas at Austin 🤘🏼, where I’m diving deep into developing cutting-edge deep learning models for ecological challenges 🐟📷🤖, blending computer vision and marine science to create impactful solutions.
 
-I hold an M.S. in Mines and Petroleum Engineering from the University of São Paulo and a B.S. in Petroleum Engineering from the Catholic University of Santos. My research spans applications of hybrid machine learning in energy production, optimization of injection techniques in oil reservoirs, and conservation-focused AI modeling. My work has been published in journals like Energies and Oil & Gas Science and Technology.
+My academic roots are in Petroleum Engineering 🛢️, with an M.S. from the University of São Paulo and a B.S. from the Catholic University of Santos. While my early career focused on energy research and hybrid machine learning for oil recovery, I later transitioned into the exciting world of data science and AI 🌐. Over the years, I’ve worked on diverse projects like credit card fraud detection, customer segmentation, and image classification, always striving to make data actionable and impactful 💡.
 
-Beyond research, I have professional experience as a machine learning engineer, where I applied AI solutions across industries, enhancing operational efficiency and scalability. My long-term goal is to continue innovating at the intersection of AI and engineering to drive sustainable solutions for global challenges.
+These days, my main focus is on Large Language Models (LLMs) 🤖📚 and multimodal AI 🖼️🔤🔊, exploring how to integrate multiple data sources to unlock innovative applications. I’m passionate about pushing the boundaries of AI to tackle interdisciplinary challenges and create scalable, sustainable solutions.
+
+With a strong skill set in Python 🐍, PyTorch, TensorFlow, and cloud platforms like AWS ☁️, I thrive at the intersection of machine learning, engineering, and real-world impact. Whether it’s enhancing operational efficiency or developing ecological AI tools, I’m always excited to learn and innovate.
+
+When I’m not working, I love geeking out over the latest advancements in AI or brainstorming new ideas with collaborators 🤝. Let’s connect if you want to chat about tech, science, or the future of AI 🚀!
