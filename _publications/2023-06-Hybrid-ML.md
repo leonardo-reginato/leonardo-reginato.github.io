@@ -3,7 +3,7 @@ title: 'Hybrid Machine Learning for Modeling the Relative Permeability Changes i
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-Hybrid-ML
-excerpt: #
+excerpt: 'This study demonstrates the effectiveness of a Hybrid Machine Learning (HML) approach, combining K-Means and Artificial Neural Networks, to predict petrophysical behaviors during Engineered Water Injection (EWI) and optimize Net Present Value (NPV). The method outperforms conventional techniques by increasing oil production (7.3%) and reducing water use (28% injected, 40% produced), enhancing profitability even with higher injection costs.'
 date: 2023-06-21
 venue: 'Energies'
 paperurl: /files/Reginato_HML.pdf
