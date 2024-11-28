@@ -6,7 +6,7 @@ permalink: /publication/2023-06-Hybrid-ML
 excerpt: #
 date: 2023-06-21
 venue: 'Energies'
-paperurl: /files/pdf/research/Reginato_HML.pdf
+paperurl: /files/Reginato_HML.pdf
 link: 'https://doi.org/10.3390/en16134849'
 code: 'https://github.com/LASG-USP/PyRes'
 citation: #
